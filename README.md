@@ -1,2 +1,0 @@
-# clp-begin
-Begin app
